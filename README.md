@@ -12,6 +12,43 @@ To estimate the causal impact of the Automated Ball-Strike (ABS) challenge syste
 
 The analysis is limited by the unavailability of reliable pre-ABS Triple-A data, necessitating the use of Double-A as a control group rather than the ideal within-league comparison. Pandemic disruptions in 2021 made that season's data unreliable for baseline comparison. While propensity score matching achieved excellent balance on observable game-state variables, potential residual confounding from unmeasured league-level differences remains a limitation. In addition, there were some inconsisentcy with who challenged the ball/strike calls as some challenges were made even though it would serve as a disadvantage to the challenger (i.e. challenging ball 4 as a batter).
 
+# Preliminary Analysis ⚾
+
+<img width="1098" height="562" alt="image" src="https://github.com/user-attachments/assets/106c28d9-fb2a-484b-a21a-01ec2f0bf192" />
+
+
+<img width="1106" height="562" alt="image" src="https://github.com/user-attachments/assets/12cf090e-a85f-4d6b-beff-a1c5ed341f6a" />
+
+<img width="1106" height="566" alt="image" src="https://github.com/user-attachments/assets/b023f966-3b0e-4b41-9770-97cdc60bb916" />
+
+
+<img width="1104" height="564" alt="image" src="https://github.com/user-attachments/assets/f6a21e5e-e6f9-4e62-9f7e-f763ef5b807a" />
+
+
+
+<img width="1102" height="568" alt="image" src="https://github.com/user-attachments/assets/7ad77b2d-05fb-4f6c-8edb-9da7412a725a" />
+
+
+<img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/4bc525db-926a-4e24-8750-cfeee41e5362" />
+
+
+<img width="1106" height="566" alt="image" src="https://github.com/user-attachments/assets/5aad832c-1ad7-4715-ae45-e6fb467cf81f" />
+
+
+<img width="1094" height="568" alt="image" src="https://github.com/user-attachments/assets/72482ad2-328d-4f04-9669-5c5f81489f03" />
+
+
+<img width="1096" height="562" alt="image" src="https://github.com/user-attachments/assets/e7f481a9-62bc-4075-80ed-a7100a535a4b" />
+
+
+<img width="1094" height="572" alt="image" src="https://github.com/user-attachments/assets/f988ee42-745c-4857-8331-308153ef41f6" />
+
+
+<img width="1106" height="568" alt="image" src="https://github.com/user-attachments/assets/5fc801e2-50b9-4bf8-b563-dfd8884ea6c9" />
+
+
+
+
 
 
 
