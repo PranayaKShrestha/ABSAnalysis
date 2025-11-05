@@ -19,16 +19,21 @@ The analysis is limited by the unavailability of reliable pre-ABS Triple-A data,
 Pitchers and catchers have a higher challenge success rate (52%) compared to batters (46%), suggesting they are more accurate or selective when deciding to challenge calls. Batters challenge more frequently but are less successful, indicating they may challenge more based on perception. This implies catchers and pitchers have a better idea of the strike zone (probably since they have a better view). We saw that batters challenges unsuccesfully more often than not which means the pitcher/catcher have fewer challenges to play with since challenges are lost if unsuccessful
 
 
+## Challenges by Pitch Count 
 <img width="1106" height="562" alt="image" src="https://github.com/user-attachments/assets/12cf090e-a85f-4d6b-beff-a1c5ed341f6a" />
 
 <img width="1106" height="566" alt="image" src="https://github.com/user-attachments/assets/b023f966-3b0e-4b41-9770-97cdc60bb916" />
 
 Challenges are overwhelmingly concentrated in two-strike counts, with the 3-2 count showing the highest volume of challenges by a significant margin. This indicates that players and teams are strategically reserving their challenges for the most high-leverage moments, specifically when a strike call would directly result in an out. But by total count, we see a high count on early counts (1-0,1-1, etc) due to most at-bats not reaching high leverage counts.
 
+## Challenges by Pitch Count and by Challenger
+
 <img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/abd034d5-4c1c-4d4e-9d00-858fb4006adf" />
 <img width="1104" height="566" alt="image" src="https://github.com/user-attachments/assets/58804740-d8e8-4cb4-81ea-6662357a8189" />
 
 Batter's challenge a high percentage of stirke 3 calls while pitchers/catchers have a more evenely distributed challneges per count with higher percentage for pitch counts where there are no strikes and a 1/2/3 balls (1-0, 2-0, 3-0 etc). The total count graph actually shows that pitchers do challenge bout the same amount as batters so the percentages are heavily influenced by the total_count of each pitch count.
+
+## Challenges by Inning
 
 <img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/4bc525db-926a-4e24-8750-cfeee41e5362" />
 <img width="1106" height="566" alt="image" src="https://github.com/user-attachments/assets/5aad832c-1ad7-4715-ae45-e6fb467cf81f" />
@@ -47,7 +52,12 @@ This bar chart shows the percentage of challenges used in baseball based on the 
 his stacked bar chart analyzes the success rate of pitch challenges based on the challenger (batter vs. pitcher/catcher) and the base situation. Batters are significantly more successful in their challenges when runners are on base (up to 67.66% success when loaded), whereas they are least successful with empty bases. Conversely, the pitcher/catcher side is most successful challenging calls with empty bases (63.09% overturn rate), but their success rate drops notably once runners reach base. In the other hand, The data professionally indicates that the umpire's called strike zone may be less accurate or potentially favors the pitcher in high-leverage situations, evidenced by the batter's significantly higher success rate in overturning called strikes when runners are on base.
 
 
+## Challenges by Leverage Index
 
+<img width="1104" height="568" alt="image" src="https://github.com/user-attachments/assets/7de7182e-a140-4111-a5eb-914c02a9022c" />
+
+
+This bar chart clearly demonstrates a positive correlation between the game's leverage level and the frequency of pitch challenges. Teams are most likely to utilize their challenges in high-leverage situations, with the challenge percentage peaking at approximately 12.5%. This pattern suggests that teams prioritize using their limited challenges when the outcome of a single pitch has the greatest potential impact on the game, compared to only around 9.0% in low-leverage scenarios.
 
 
 
