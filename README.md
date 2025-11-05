@@ -39,6 +39,11 @@ Batter's challenge a high percentage of stirke 3 calls while pitchers/catchers h
 <img width="1108" height="568" alt="image" src="https://github.com/user-attachments/assets/505fbef8-9e85-4449-8907-65b623e73e2a" />
 This bar chart shows the percentage of challenges used in baseball based on the situation, with the highest challenge rate occurring when the bases are loaded (nearly 4%). Conversely, challenges are least common when there are only men on base but not in scoring position (around 2.7%). The data suggests managers are most likely to use a challenge in the game's highest-leverage situation
 
+
+
+
+
+
 <img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/67b216f5-9b8f-464e-be0a-35a3068f18a6" />
 
 his stacked bar chart analyzes the success rate of pitch challenges based on the challenger (batter vs. pitcher/catcher) and the base situation. Batters are significantly more successful in their challenges when runners are on base (up to 67.66% success when loaded), whereas they are least successful with empty bases. Conversely, the pitcher/catcher side is most successful challenging calls with empty bases (63.09% overturn rate), but their success rate drops notably once runners reach base. In the other hand, The data professionally indicates that the umpire's called strike zone may be less accurate or potentially favors the pitcher in high-leverage situations, evidenced by the batter's significantly higher success rate in overturning called strikes when runners are on base.
