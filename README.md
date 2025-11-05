@@ -12,7 +12,7 @@ To estimate the causal impact of the Automated Ball-Strike (ABS) challenge syste
 
 The analysis is limited by the unavailability of reliable pre-ABS Triple-A data, necessitating the use of Double-A as a control group rather than the ideal within-league comparison. Pandemic disruptions in 2021 made that season's data unreliable for baseline comparison. While propensity score matching achieved excellent balance on observable game-state variables, potential residual confounding from unmeasured league-level differences remains a limitation. In addition, there were some inconsisentcy with who challenged the ball/strike calls as some challenges were made even though it would serve as a disadvantage to the challenger (i.e. challenging ball 4 as a batter).
 
-# Preliminary Analysis ⚾
+# Analysis ⚾
 
 <img width="1098" height="562" alt="image" src="https://github.com/user-attachments/assets/106c28d9-fb2a-484b-a21a-01ec2f0bf192" />
 
@@ -58,6 +58,29 @@ his stacked bar chart analyzes the success rate of pitch challenges based on the
 
 
 This bar chart clearly demonstrates a positive correlation between the game's leverage level and the frequency of pitch challenges. Teams are most likely to utilize their challenges in high-leverage situations, with the challenge percentage peaking at approximately 12.5%. This pattern suggests that teams prioritize using their limited challenges when the outcome of a single pitch has the greatest potential impact on the game, compared to only around 9.0% in low-leverage scenarios.
+
+
+## ABS Challenge Treatment Effect on OBP
+
+
+To begin, I used the R function matchit() to match similar situations from the treatment group (i.e. triple-A 2024-2025 season) and the control group (i.e. double-A 2024-2025 season). I did a inital assessment of the treatment effect by looking at the avg OBP of each group for any level of leverage. 
+
+<img width="460" height="72" alt="image" src="https://github.com/user-attachments/assets/58030ad0-e52d-4f4a-8da5-0418894cd42a" />
+
+
+
+
+<img width="602" height="68" alt="image" src="https://github.com/user-attachments/assets/44d29dc5-ac4d-40c0-897b-53223e52fc0b" />
+
+The inital assessment shows that the treatment group and the control group have basically similar WPA changes with very minimal differences. 
+
+<img width="546" height="320" alt="image" src="https://github.com/user-attachments/assets/c212616a-b591-490f-b13f-7d947a6c2511" />
+
+The treatment coefficient of -0.123 indicates that the ABS challenge system is associated with a 0.123 percentage point reduction in absolute win probability changes per at-bat. This statistically significant result (p = 0.00014) suggests that challenges modestly reduce game volatility, potentially by correcting calls that would have led to larger swings in win probability. The ABS challenge system appears to have a small but statistically significant stabilizing effect on game outcomes.
+
+
+
+
 
 
 
