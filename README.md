@@ -33,14 +33,12 @@ Batter's challenge a high percentage of stirke 3 calls while pitchers/catchers h
 <img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/4bc525db-926a-4e24-8750-cfeee41e5362" />
 <img width="1106" height="566" alt="image" src="https://github.com/user-attachments/assets/5aad832c-1ad7-4715-ae45-e6fb467cf81f" />
 
-Higher percentage of challenges are used in the latter innings especially the 9th inning which supports the theory that challenges are being saved for higher leverage situations. Note that only half of a 9th inning is played if the home team won in regulation. 
-
+ challenge usage increases significantly as the game progresses, with the highest volume and percentage of challenges occurring in the final innings (7th, 8th, and 9th). This pattern indicates that teams are strategically conserving their challenges for high-leverage, late-game situations where a single call can have a greater impact on the final outcome. The low usage in early innings suggests teams prioritize saving challenges for critical moments rather than using them early when the game context is less decisive
 
 <img width="1094" height="568" alt="image" src="https://github.com/user-attachments/assets/72482ad2-328d-4f04-9669-5c5f81489f03" />
 
-
-
 <img width="1096" height="562" alt="image" src="https://github.com/user-attachments/assets/e7f481a9-62bc-4075-80ed-a7100a535a4b" />
+
 
 
 <img width="1094" height="572" alt="image" src="https://github.com/user-attachments/assets/f988ee42-745c-4857-8331-308153ef41f6" />
