@@ -26,17 +26,18 @@ Pitchers and catchers have a higher challenge success rate (52%) compared to bat
 Challenges are overwhelmingly concentrated in two-strike counts, with the 3-2 count showing the highest volume of challenges by a significant margin. This indicates that players and teams are strategically reserving their challenges for the most high-leverage moments, specifically when a strike call would directly result in an out. But by total count, we see a high count on early counts (1-0,1-1, etc) due to most at-bats not reaching high leverage counts.
 
 <img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/abd034d5-4c1c-4d4e-9d00-858fb4006adf" />
-<img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/4bc525db-926a-4e24-8750-cfeee41e5362" />
+<img width="1104" height="566" alt="image" src="https://github.com/user-attachments/assets/58804740-d8e8-4cb4-81ea-6662357a8189" />
 
 Batter's challenge a high percentage of stirke 3 calls while pitchers/catchers have a more evenely distributed challneges per count with higher percentage for pitch counts where there are no strikes and a 1/2/3 balls (1-0, 2-0, 3-0 etc). The total count graph actually shows that pitchers do challenge bout the same amount as batters so the percentages are heavily influenced by the total_count of each pitch count.
 
-
-
+<img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/4bc525db-926a-4e24-8750-cfeee41e5362" />
 <img width="1106" height="566" alt="image" src="https://github.com/user-attachments/assets/5aad832c-1ad7-4715-ae45-e6fb467cf81f" />
+
+Higher percentage of challenges are used in the latter innings especially the 9th inning which supports the theory that challenges are being saved for higher leverage situations. Note that only half of a 9th inning is played if the home team won in regulation. 
+
 
 <img width="1094" height="568" alt="image" src="https://github.com/user-attachments/assets/72482ad2-328d-4f04-9669-5c5f81489f03" />
 
-Higher percentage of challenges are used in the latter innings especially the 9th inning which supports the theory that challenges are being saved for higher leverage situations. Note that only half of a 9th inning is played if the home team won in regulation. 
 
 
 <img width="1096" height="562" alt="image" src="https://github.com/user-attachments/assets/e7f481a9-62bc-4075-80ed-a7100a535a4b" />
