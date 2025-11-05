@@ -36,12 +36,10 @@ Batter's challenge a high percentage of stirke 3 calls while pitchers/catchers h
  challenge usage increases significantly as the game progresses, with the highest volume and percentage of challenges occurring in the final innings (7th, 8th, and 9th). This pattern indicates that teams are strategically conserving their challenges for high-leverage, late-game situations where a single call can have a greater impact on the final outcome. The low usage in early innings suggests teams prioritize saving challenges for critical moments rather than using them early when the game context is less decisive
 
 
+## Situational Challenges
+
 <img width="1108" height="568" alt="image" src="https://github.com/user-attachments/assets/505fbef8-9e85-4449-8907-65b623e73e2a" />
 This bar chart shows the percentage of challenges used in baseball based on the situation, with the highest challenge rate occurring when the bases are loaded (nearly 4%). Conversely, challenges are least common when there are only men on base but not in scoring position (around 2.7%). The data suggests managers are most likely to use a challenge in the game's highest-leverage situation
-
-
-
-
 
 
 <img width="1098" height="564" alt="image" src="https://github.com/user-attachments/assets/67b216f5-9b8f-464e-be0a-35a3068f18a6" />
