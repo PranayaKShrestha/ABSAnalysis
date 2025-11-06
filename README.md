@@ -14,6 +14,8 @@ The analysis is limited by the unavailability of reliable pre-ABS Triple-A data,
 
 # Analysis ⚾
 
+## Challenger Success Rate and Volume
+
 <img width="1098" height="562" alt="image" src="https://github.com/user-attachments/assets/106c28d9-fb2a-484b-a21a-01ec2f0bf192" />
 
 Pitchers and catchers have a higher challenge success rate (52%) compared to batters (46%), suggesting they are more accurate or selective when deciding to challenge calls. Batters challenge more frequently but are less successful, indicating they may challenge more based on perception. This implies catchers and pitchers have a better idea of the strike zone (probably since they have a better view). We saw that batters challenges unsuccesfully more often than not which means the pitcher/catcher have fewer challenges to play with since challenges are lost if unsuccessful
