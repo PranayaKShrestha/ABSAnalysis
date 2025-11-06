@@ -81,7 +81,7 @@ The ABS challenge system effect on OBP will be harder ot quantify considering th
 
 <img width="602" height="68" alt="image" src="https://github.com/user-attachments/assets/44d29dc5-ac4d-40c0-897b-53223e52fc0b" />
 
-Note that I am using the absolute value of WPA, which analyzes game volatility rather than directional impact on the home team. The inital assessment shows that the treatment group and the control group have basically similar WPA changes with very minimal differences. 
+Note that I am using the absolute value of WPA, which analyzes game volatility rather than directional impact on the home team. The inital assessment shows that the treatment group and the control group have basically similar WPA changes with very minimal differences. A linear model can assess the effect of the ABS system even more.
 
 <img width="546" height="320" alt="image" src="https://github.com/user-attachments/assets/c212616a-b591-490f-b13f-7d947a6c2511" />
 
