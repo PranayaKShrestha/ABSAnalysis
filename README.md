@@ -88,8 +88,9 @@ Note that I am using the absolute value of WPA, which analyzes game volatility r
 The treatment coefficient of -0.123 indicates that the ABS challenge system is associated with a 0.123 percentage point reduction in game volatility per at-bat. This means challenged at-bats produce smaller absolute swings in win probability compared to similar non-challenged situations. The ABS challenge system appears to moderate game volatility by reducing extreme win probability swings, potentially creating more predictable and fairer game outcomes where win probability changes reflect actual gameplay rather than officiating errors.
 
 
+# Conclusion ⚾
 
-
+The implementation of the ABS challenge system into MLB may seem like a momuental change but the effect it has on the game itself is rather minor. It is being integrated into the sport not as a disruptive force, but as a targeted tool for enhancing fairness. Through my analysis on its' use in triple-A, the ABS system is being used as it was intended accorind to Morgan Sword. Moments of high leverage such as late innings, bases-loaded or high leverage counts (3-2, 2-2, 1-2, etc) the ABS system is being used by players, not allowing a bad call by the umpire to heavily influence the game. The key finding is that the ABS system acts as a stabilizing force on game outcomes. My model indicates a statistically significant reduction in the absolute win probability change (WPA) in challenged at-bats, suggesting the system successfully mitigates the large, game-altering swings that can result from incorrect ball-strike calls. It reduces volatility by correcting consequential errors, and its use reflects the high-stakes, strategic decision-making that defines professional baseball. 
 
 
 
