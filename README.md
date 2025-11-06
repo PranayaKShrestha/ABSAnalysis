@@ -67,16 +67,25 @@ To begin, I used the R function matchit() to match similar situations from the t
 
 <img width="460" height="72" alt="image" src="https://github.com/user-attachments/assets/58030ad0-e52d-4f4a-8da5-0418894cd42a" />
 
+While the observed difference in On-Base Percentage (OBP) favors the treatment group (ABS challenge system), direct attribution of this increase to the intervention is difficult due to the confounding variable of competitive level disparity. Given that the pre-intervention difference in OBP between Double-A and Triple-A was 0.011 in 2021, the observed change in OBP may be heavily influenced by the inherent differences in hitter quality and performance between the two leagues, potentially masking or overstating the true effect of the ABS challenge system.
 
 
+<img width="762" height="408" alt="image" src="https://github.com/user-attachments/assets/e85fd255-f0df-47c0-bfce-a19a81892b6a" />
+
+Using a generalized linear model with a binomial family with a logit link function, I tried to find the effects of the ABS system. While the model estimates a minor positive impact of the ABS challenge system on OBP (an increase of $0.96$ percentage points), this treatment effect is not statistically significant ($p=0.24$). The model confirms that situational factors like game leverage and the presence of runners on base are highly significant determinants of a batter's success.
+
+
+## ABS Challenge Treatment Effect on Win Probability
+
+The ABS challenge system effect on OBP will be harder ot quantify considering the difference in quality between double-A and triple-A. However, the change in win-probability might be easier to quantify. 
 
 <img width="602" height="68" alt="image" src="https://github.com/user-attachments/assets/44d29dc5-ac4d-40c0-897b-53223e52fc0b" />
 
-The inital assessment shows that the treatment group and the control group have basically similar WPA changes with very minimal differences. 
+Note that I am using the absolute value of WPA, which analyzes game volatility rather than directional impact on the home team. The inital assessment shows that the treatment group and the control group have basically similar WPA changes with very minimal differences. 
 
 <img width="546" height="320" alt="image" src="https://github.com/user-attachments/assets/c212616a-b591-490f-b13f-7d947a6c2511" />
 
-The treatment coefficient of -0.123 indicates that the ABS challenge system is associated with a 0.123 percentage point reduction in absolute win probability changes per at-bat. This statistically significant result (p = 0.00014) suggests that challenges modestly reduce game volatility, potentially by correcting calls that would have led to larger swings in win probability. The ABS challenge system appears to have a small but statistically significant stabilizing effect on game outcomes.
+The treatment coefficient of -0.123 indicates that the ABS challenge system is associated with a 0.123 percentage point reduction in game volatility per at-bat. This means challenged at-bats produce smaller absolute swings in win probability compared to similar non-challenged situations. The ABS challenge system appears to moderate game volatility by reducing extreme win probability swings, potentially creating more predictable and fairer game outcomes where win probability changes reflect actual gameplay rather than officiating errors.
 
 
 
